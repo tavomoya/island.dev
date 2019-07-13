@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Gustavo Moya - Island Dev"
 theme = "hugo-theme-nix"
 
 [menu]
