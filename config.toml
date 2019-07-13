@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-theme-nix"
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "/about"
+
+[params]
+  Name = "Gustavo Moya"
+  HeaderUsername = "tavomoya"
+  HeaderHostname = "home"
+  About = "Hola, soy Gregorio y estas es mi pagina web. Soy un desarrollador de software fullstack. Trabajo principalmente con tecnologías como React, Angular y Golang. Aquí podrás encontrar información sobre mis proyectos y posts sobre cosas que me gustan hacer. :)"
+  ProfilePicture = "/island-dev.jpg"
+  Email = "gmoyatorres@gmail.com"
+  GithubID = "tavomoya"
+  InstagramID = "island.dev"
+  LinkedInID = "gregorio-moya-a03420b6/"
+  TelegramID = "tavomoya"
+  TwitterID = "TavoMoya11"
