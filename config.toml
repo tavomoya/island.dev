@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "tavomoya.dev"
 languageCode = "en-us"
 title = "Gustavo Moya - Island Dev"
 theme = "hugo-theme-nix"
