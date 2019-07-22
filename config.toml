@@ -8,6 +8,10 @@ theme = "hugo-theme-nix"
     name = "about"
     weight = 0
     url = "/about"
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
 
 [params]
   Name = "Gustavo Moya"
