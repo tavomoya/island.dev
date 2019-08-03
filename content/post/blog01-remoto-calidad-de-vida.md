@@ -7,6 +7,11 @@ tags = [
     "lifestyle",
 ]
 date = "2019-07-22"
+categories = [
+    "Remote",
+    "Blogging",
+    "Lifestyle",
+]
 menu = "main"
 +++
 
@@ -14,7 +19,7 @@ Desde que empecé a estudiar Ingeniería de Sistemas, uno de las cosas que quer�
 
 Llevo trabajando de forma remota desde Enero de 2016, 3 años y medio, en este tiempo he podido saborear muchísimas ventajas que ya me esperaba de trabajar de esta forma, como por ejemplo no tener que levantarme temprano para viajar a mi lugar de trabajo, ahorro de dinero con relación al transporte y el almuerzo, y la simple comodidad de estar en mi casa todo el tiempo. Aunque no todo era color de rosa, trabajar remoto muchas veces implica despertarte con ropa de dormir y no cambiarlas sino hasta la próxima vez que vas a dormir, aislarte de tu familia, amigos y/o pareja.
 
-A continuación mostraré algunas recomendaciones sobre qué hacer para evitar aislamiento y (quizás) tener una mejor calidad de vida cuando trabas remoto.
+A continuación mostraré algunas recomendaciones sobre qué hacer para evitar aislamiento y (quizás) tener una mejor calidad de vida cuando trabajas remoto.
 
 ### Crea una rutina
 Puede que suene aburrido pero crear una rutina por lo menos para el inicio del día ayuda a evitar distracciones matutinas. A mi me funciona **levantarme temprano** (una hora antes de cuando voy a trabajar), me doy una ducha, preparo desayuno y café, y me siento a leer noticias, para la hora de empezar a trabajar no me sentiré con sueño ni tendré la urgencia de revisar mi timeline de Instagram o Twitter.
