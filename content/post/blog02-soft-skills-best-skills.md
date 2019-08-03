@@ -46,7 +46,7 @@ Al final del camino esta es una de las cosas que tanto tu empleador, como tus co
 ### Manejo del Tiempo
 Cuando tienes mucho que hacer saber cómo manejar tu tiempo es crucial. Un manejo de tiempo eficiente te permite enfocarte en las tareas que tienen más prioridad.
 
-En mi post anterior sobre [Trabajo Remoto y Calidad de Vida](https://tavomoya.dev/post/blog01-remoto-calidad-de-vida/), mencionó algunas de las cosas que hago para tratar de manejar mi tiempo lo mejor que puedo. Ordenar mis tareas por prioridad/dificultad y tomar descansos cada cierto tiempo son de las cosas que me ayudan a eficientar el tiempo que le dedico a mis tareas. 
+En mi post anterior sobre [Trabajo Remoto y Calidad de Vida](https://tavomoya.dev/post/blog01-remoto-calidad-de-vida/), menciono algunas de las cosas que hago para tratar de manejar mi tiempo lo mejor que puedo. Ordenar mis tareas por prioridad/dificultad y tomar descansos cada cierto tiempo son de las cosas que me ayudan a eficientar el tiempo que le dedico a mis tareas. 
 
 Lo principal está en crear una rutina en la que todos los días antes de comenzar te tomes un tiempo en organizar cuales son las cosas que quieres hacer y en qué tiempo las quieres hacer.
 
