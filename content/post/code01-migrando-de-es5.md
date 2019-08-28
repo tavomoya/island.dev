@@ -13,7 +13,7 @@ menu = "main"
 Hoy me gustaría dedicarle algo de tiempo a alguno de mis antiguos mini proyectos en JavaScript y qué mejor tarea que mover el uso de Object Prototype a Class en [rates.do](https://github.com/tavomoya/rates.do).
 
 ## Acerca de rates.do 💰
-Este es un pequeño paquete npm que nos permite obtener la tasa de cambio (de dólares y euros) desde los principales bancos de la República Dominicana. Este utiliza un API publico alojado en esta direccion http://api.marcos.do/.
+Este es un pequeño paquete npm que nos permite obtener la tasa de cambio (de dólares y euros) desde los principales bancos de la República Dominicana. Este utiliza un API público alojado en esta dirección http://api.marcos.do/.
 
 He utilizado este paquete principalmente en trabajos universitarios hace unos años, específicamente con estos que están fuertemente ligados con actividad financiera que dependa de un manejo multimoneda.
 
@@ -85,9 +85,9 @@ Rates.prototype.centralBankRate = function () {
 
 module.exports = Rates;
 ```
-Actualmente el paquete consta de un solo archivo llamado _index.js_. Aquí creo una funcion llamada _Rates_ que funciona como un “constructor” donde defino la propiedad _apiPath_. Luego utilizando Object Prototype adjunto dos funciones a mi objeto _Rates_, una se llama _getAllRates_ y la otra _centralBankRate_.
+Actualmente el paquete consta de un sólo archivo llamado _index.js_. Aquí creo una función llamada _Rates_ que funciona como un “constructor” donde defino la propiedad _apiPath_. Luego utilizando Object Prototype adjunto dos funciones a mi objeto _Rates_, una se llama _getAllRates_ y la otra _centralBankRate_.
 
-Otras cosas a destacar son las dependencias de este paquete, [request](https://www.npmjs.com/package/request) la cual utilizo para hacer peticiones HTTP hacia la API pública ya mencionada y [q](https://www.npmjs.com/package/q) para trabajar con promises.
+Otras cosas a destacar son las dependencias de éste paquete, [request](https://www.npmjs.com/package/request) la cual utilizo para hacer peticiones HTTP hacia la API pública ya mencionada y [q](https://www.npmjs.com/package/q) para trabajar con promises.
 
 ## Nuevas Dependencias 🆕
 En la nueva versión del paquete la única dependencia que tendré será [axios](https://www.npmjs.com/package/axios) para trabajar con las peticiones HTTP en vez de request. La razón del cambio es principalmente porque _request_ no trabaja con promises de forma nativa sino con callbacks o streams de datos, sin embargo _axios_ si es basado en promises además de lo ligero que es y lo familiarizado que ya estoy con él usándolo en otro proyecto.
@@ -142,6 +142,6 @@ Este es el producto final y aqui una lista de los cambios claves:
 * Uso de [**template literals**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) en vez de concatenar strings
 
 ## Nota Final 📝
-Todo el codigo descrito en este articulo se encuentra en este [branch](https://github.com/tavomoya/rates.do/tree/es-migration) en el repositorio de GitHub de rates.do. 
+Todo el código descrito en este artículo se encuentra en este [branch](https://github.com/tavomoya/rates.do/tree/es-migration) en el repositorio de GitHub de rates.do. 
 
 Enjoy 😄
