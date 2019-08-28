@@ -135,7 +135,7 @@ module.exports = Rates;
 Este es el producto final y aqui una lista de los cambios claves:
 
 * Uso del keyword **Class** para crear la clase
-* Uso de **async** para hacer la que las funciones devuelvan una promesa
+* Uso de **async** para hacer que las funciones devuelvan una promesa
 * Uso de **try/catch** para manejo de errores dentro de las funciones
 * Uso de **const** en vez de **var**
 * Uso de **axios** para las peticiones HTTP
