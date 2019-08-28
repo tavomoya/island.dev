@@ -2,6 +2,7 @@ baseURL = "https://tavomoya.dev/"
 languageCode = "en-us"
 title = "Gustavo Moya - Island Dev"
 theme = "hugo-theme-nix"
+pygmentsCodeFences = true
 
 [menu]
   [[menu.header]]
