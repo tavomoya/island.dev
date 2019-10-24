@@ -11,7 +11,7 @@ date = "2019-10-23"
 menu = "main"
 +++
 
-Go es uno de mis lenguajes de programación favoritos, llevo trabajando con él desde finales de 2016. Venía de trabajar ya 2 anios con Nodejs como mi lenguaje principal en el backend por lo que muchas cosas de Go me tomaron de sorpresa al principio. Lo primero que note al empezar a estudiar Go fue el uso de punteros. No veía punteros desde que estaba en la universidad aprendiendo C, por lo que se podrían imaginar lo complicado que me resultó refrescar mis conocimientos sobre estos.  
+Go es uno de mis lenguajes de programación favoritos, llevo trabajando con él desde finales de 2016. Venía de trabajar ya 2 años con Nodejs como mi lenguaje principal en el backend por lo que muchas cosas de Go me tomaron de sorpresa al principio. Lo primero que note al empezar a estudiar Go fue el uso de punteros. No veía punteros desde que estaba en la universidad aprendiendo C, por lo que se podrían imaginar lo complicado que me resultó refrescar mis conocimientos sobre estos.  
 
 Los punteros son utilizados para comunicar data en una aplicación haciendo referencia a la dirección en memoria de dicha data, en vez de pasar el contenido de la misma. Viéndolo de manera práctica, utilizariamos punteros si queremos que la data original sea mutada por la función que la recibe en vez de que la función haga una copia de esta data para funcionar. 
 
