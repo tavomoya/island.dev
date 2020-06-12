@@ -22,6 +22,7 @@ Soy un entusiasta de la tecnología en general (hardware, gadgets, etc), me gust
 
 La mayoría de mis proyectos están alojados en [GitHub](https://github.com/tavomoya):
 
+* [MangaGram](https://github.com/tavomoya/mangagram)
 * [Cortes Programados](https://github.com/tavomoya/cortes-programados-api)
 * [rates.do](https://github.com/tavomoya/rates.do)
 
