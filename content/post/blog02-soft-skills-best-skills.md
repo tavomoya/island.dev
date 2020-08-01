@@ -8,6 +8,7 @@ tags = [
 ]
 date = "2019-08-03"
 menu = "main"
+description = "Importancia de las habilidades no tecnicas que todo programador debe aspirar tener"
 +++
 
 Una de las cosas que he visto mucho en mis recomendaciones en Medium, timeline de Twitter y uno que otro TED talk es aquel debate sobre “Hard Skills” vs “Soft Skills” o habilidades “duras” y “blandas” en español. Y de que se trata este debate realmente? Principalmente está basado en tratar de definir cuál conjunto de habilidades es más _importante_ que otro.

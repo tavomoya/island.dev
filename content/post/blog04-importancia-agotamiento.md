@@ -10,6 +10,7 @@ tags = [
 ]
 date = "2020-01-03"
 menu = "main"
+description = "Breve historia sobre agotamiento luego de un prolongado tiempo de trabajo continuo y el por que es importante tomar descansos para encontrarse a si mismo"
 +++
 
 Ha pasado mucho tiempo desde mi ultima publicacion, estos ultimos meses han sido bastante movidos en mi empleo lo cual no me ha dejado mucho tiempo libre para sentarme a escribir. Desde cambios en el equipo de trabajo hasta modificaciones drásticas en nuestro producto, han resultado en bastante estrés y agotamiento acumulado.

@@ -9,6 +9,7 @@ tags = [
 ]
 date = "2019-10-23"
 menu = "main"
+description = "Tutorial de como funcionan los punteros en Golang"
 +++
 
 Go es uno de mis lenguajes de programación favoritos, llevo trabajando con él desde finales de 2016. Venía de trabajar ya 2 años con Nodejs como mi lenguaje principal en el backend por lo que muchas cosas de Go me tomaron de sorpresa al principio. Lo primero que note al empezar a estudiar Go fue el uso de punteros. No veía punteros desde que estaba en la universidad aprendiendo C, por lo que se podrían imaginar lo complicado que me resultó refrescar mis conocimientos sobre estos.  

@@ -10,6 +10,7 @@ tags = [
 ]
 date = "2019-10-05"
 menu = "main"
+description = "Articulo que nace luego de mi asistencia al GDG DevFest Santo Domingo"
 +++
 
 Hace unas semanas tuve la oportunidad de asistir al [GDG DevFest Santo Domingo](https://www.instagram.com/gdgsantodomingo/), un evento dirigido a desarrolladores de software, en Downtown Center Santo Domingo. Fue un evento excelente enfocado principalmente en tecnologías de Google (como Kotlin, Tensorflow y Flutter), pero también incluyeron temas de carácter humano como el manejo de equipos de trabajo y comunicación efectiva.

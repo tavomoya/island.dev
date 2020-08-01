@@ -12,6 +12,7 @@ tags = [
 ]
 date = "2020-06-12"
 menu = "main"
+description = "Cuando el encierro por el COVID resulta ser beneficioso, aprendi un poco sobre el API de Telegram y asi cree MangaGram, un bot para alertas de mis mangas favoritos"
 +++
 
 Como a todos durante esta cuarentena a mi también me ha atacado un poco el aburrimiento, y qué mejor uso para este tiempo de ocio que un poco de práctica con algo nuevo, por lo menos para mi. 

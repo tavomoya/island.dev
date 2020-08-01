@@ -11,6 +11,7 @@ tags = [
 ]
 date = "2020-02-29"
 menu = "main"
+description = "Lista de algunas herramientas de trabajo que quizas tu como programador deberias utilizar"
 +++
 
 Uno de los temas sugeridos por algunas personas desde ya hace un tiempo es el de hablar sobre las herramientas de trabajo que uso en el dia a dia. Esta no es una lista de “recomendaciones”, sino una representación de herramientas que me han funcionado durante cierto tiempo.

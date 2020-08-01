@@ -11,6 +11,7 @@ tags = [
 ]
 date = "2020-06-09"
 menu = "main"
+description = "Mi experiencia con el sindrome del impostor y como sobrellevar nuestras propias inseguridades, punto de vista de un programador"
 +++
 
 Si dijera que siempre he sentido que merezco todas las cosas que he obtenido gracias a mi trabajo, que creo que soy lo suficiente capaz para cumplir con todas las responsabilidades que tengo a la mano, que tengo el conocimiento necesario para competir con todas las demás brillantes personas que trabajan en esta área, estaría mintiendo.
