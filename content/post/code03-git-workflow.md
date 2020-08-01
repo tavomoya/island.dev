@@ -9,6 +9,7 @@ tags = [
 ]
 date = "2020-01-31"
 menu = "main"
+description = "Breve reseña de mi experiencia con git workflow y la importancia de utilizar control de versiones en los proyectos de software."
 +++
 
 En el 2013 aprendi un poco sobre los sistemas de manejar versiones, todo ese conocimiento fue superficial por el momento. Ya sabia que existian y que eran muy usados en (prácticamente) todas las empresas de software, pero aun en ese momento no entendía completamente el por que yo, estudiante de Ingenieria en aquel entonces, necesitaria utilizar algun manejador de versiones. 

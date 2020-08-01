@@ -2,11 +2,12 @@
 title = "Sobre Mi"
 date = "2019-07-13"
 menu = "main"
+description = "Sobre mi"
 +++
 
 Desarrollador de Software basado en Santo Domingo, República Dominicana
 
-Graduado de Ingeniería de Sistemas de Información en la Universidad APEC, tengo mas de 5 años de experiencia como desarrollador utilizando diferentes tecnologías como Angular, React, Go y Node.
+Graduado de Ingeniería de Sistemas de Información en la Universidad APEC, tengo mas de 6 años de experiencia como desarrollador utilizando diferentes tecnologías como Angular, React, Go y Node.
 
 Soy un entusiasta de la tecnología en general (hardware, gadgets, etc), me gusta documentarme sobre nuevas tendencias e innovaciones en el ambiente tecnológico.
 

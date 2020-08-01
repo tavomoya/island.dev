@@ -13,6 +13,7 @@ categories = [
     "Lifestyle",
 ]
 menu = "main"
+description = "Tips sobre como mantener un balance entre el trabajo remoto y nuestra vida diaria"
 +++
 
 Desde que empecé a estudiar Ingeniería de Sistemas, uno de las cosas que quería lograr era tener la oportunidad de trabajar desde la comodidad de mi casa. No me malentiendan, el trabajo de oficina no tiene nada de malo, sin embargo, esa sensación de poder controlar tu ambiente de trabajo (ya sea que lo hagas en tu habitación, sala, comedor o incluso en algún café) genera cierto nivel de libertad que no he podido lograr trabajando en una oficina corporativa.

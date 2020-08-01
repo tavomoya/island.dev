@@ -11,6 +11,7 @@ tags = [
 ]
 date = "2020-02-09"
 menu = "main"
+description = "Una mirada a las revisiones de codigo desde el punto de vista de un programador y de lider de un equipo, ademas de algunos tips para mejorar tus pull requests/commits"
 +++
 
 En el artículo anterior sobre [Git Workflow](https://tavomoya.dev/post/code03-git-workflow/) hice mención sobre Code Reviews y quise ampliar un poco más sobre mi experiencia recibiendo feedback de reviewers, así también como de mi mismo siendo reviewer.

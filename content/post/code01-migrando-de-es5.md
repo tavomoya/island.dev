@@ -8,6 +8,7 @@ tags = [
 ]
 date = "2019-08-27"
 menu = "main"
+description = "Tutorial de como convertir un paquete de NPM que esta usando JavaScript ES5 a ES6"
 +++
 
 Hoy me gustaría dedicarle algo de tiempo a alguno de mis antiguos mini proyectos en JavaScript y qué mejor tarea que mover el uso de Object Prototype a Class en [rates.do](https://github.com/tavomoya/rates.do).
