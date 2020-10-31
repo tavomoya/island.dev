@@ -1,5 +1,5 @@
 +++
-title = "Code 07 - Menos es Mas en JavaScript"
+title = "Code 07 - Menos es Más en JavaScript"
 tags = [
 	"code",
 	"work",
