@@ -24,7 +24,7 @@ Dos de estas funciones son __Math.min()__ y __Math.max()__, como sus nombres los
 2124
 ```
 
-## Cual es el problema entonces?
+## Cuál es el problema entonces?
 Sin googlear y solo adivinando, si llamas cualquiera de las dos funciones sin pasar ningún como parametro, cual seria el comportamiento esperado? ¿Esperarias un 0 o un 1? Vamos a intentarlo:
 
 ```bash
