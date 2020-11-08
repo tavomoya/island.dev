@@ -1,5 +1,5 @@
 +++
-title = "Code 07 - Matematicas Flotantes en JavaScript"
+title = "Code 08 - Matemáticas Flotantes en JavaScript"
 tags = [
 	"code",
 	"work",
@@ -58,5 +58,7 @@ Si el redondear números decimales o realizar cálculos matemáticos precisos us
 Aquí dejo otros links que pueden también ser de interés para conocer un poco más del tema, así también como ver de primera mano cómo funciona en (casi) todos los lenguajes de programación. 
 
 [0.30000000000000004](https://0.30000000000000004.com/)
+
 [IEEE Standard for Floating-Point Arithmetic](https://standards.ieee.org/standard/754-2008.html)
+
 [Floating Point Guide](https://floating-point-gui.de/)
