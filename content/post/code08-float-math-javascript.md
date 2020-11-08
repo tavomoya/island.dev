@@ -33,6 +33,8 @@ Las computadoras no utilizan un sistema decimal para realizar cálculos, sino qu
 
 ## Punto de Vista Matemático
 
+![](/floats.png)
+
 En un sistema numérico de base 10 como el que usamos los humanos, tenemos formas de representar decimales de forma exacta siempre y cuando la base de la fracción que forma el decimal use uno de los factores primos de 10, como los factores primos de 10 son el 2 y el 5, eso quiere decir que podemos representar un decimal de forma exacta siempre y cuando su fracción sea de tipo ½, ¼, ⅕, ⅛, 1/10, del mismo modo las fracciones cuya base sea 3, 6 o 7 siempre resultará en un número irracional.
 
 Esto se complica aún más cuando lo llevamos a un sistema de base 2 ya que el factor primo es solamente 2, por lo que los únicos decimales que pueden ser exactamente representados son aquellos cuya fracción sea de tipo ½, lo que significa que __0.1__ (que seria 1/10) y __0.2__ (que seria ⅕), son representados como decimales periódicos en sistema binario.
