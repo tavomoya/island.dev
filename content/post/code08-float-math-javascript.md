@@ -14,7 +14,7 @@ menu = "main"
 description = "Explicacion de como funcionan las operaciones matematicas en JavaScript cuando utilizamos numeros decimales con precision arbitraria."
 +++
 
-Siguiendo la línea del artículo pasado [Code 07 - Menos es más en JavaScript](https://tavomoya.dev/post/code07-menos-es-mas-javascript/) sobre una de las peculiaridades de JavaScript y el objeto Math, se me ocurrió escribir sobre otra cosa bien específica con la que todos los que hemos trabajado con JavaScript nos hemos topado, y si no, pues estamos en camino a eso.
+Siguiendo la línea del artículo pasado [Code 07 - Menos es Más en JavaScript](https://tavomoya.dev/post/code07-menos-es-mas-javascript/) sobre una de las peculiaridades de JavaScript y el objeto Math, se me ocurrió escribir sobre otra cosa bien específica con la que todos los que hemos trabajado con JavaScript nos hemos topado, y si no, pues estamos en camino a eso.
 
 El problema de hoy es el de las operaciones matemáticas con números flotantes o de precisión arbitraria. Básicamente si tomamos los números __0.1__ y __0.2__, asumirías que la suma daría como resultado __0.3__, sin embargo esto no es lo que pasa en JavaScript:
 
