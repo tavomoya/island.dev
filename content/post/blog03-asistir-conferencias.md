@@ -30,6 +30,3 @@ El GDG DevFest Santo Domingo de este año fue realizado los días Viernes y Sáb
 Aparte de tener expositores locales, GDG DevFest Santo Domingo también contó con expositores de diferentes partes del mundo y de empresas diversas, todos con un enfoque diferente en cuanto a varios temas de tecnología. Crux Conception, Joel Humberto Gomez, Lesly Zerna, Jigyasa Grover, entre otros.
 
 Aparte de [GDG DevFest Santo Domingo](https://www.instagram.com/gdgsantodomingo/) existen otras conferencias de software que se dan durante el año, como es el [Code Camp](https://www.instagram.com/codecampsdq/), los meetups mensuales de [fria.js](https://www.instagram.com/fria.js/), el [Caribbean Dev Conference](https://www.instagram.com/caribbeandevcon/), así como otros eventos específicos de cada comunidad. Los beneficios de asistir y apoyar estos eventos están más que claros y creo que pueden ayudarte a llevar tu carrera a otro nivel. 
-
-## Pequeño video durante el GDG DevFest Santo Domingo
-{{<instagram B20U5eTDHHn hidecaption>}}
